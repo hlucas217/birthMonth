@@ -1,0 +1,15 @@
+C:\Users\hlucas\Google Drive\AcademyPGH\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\bin\Debug\Birth Month Exercise (While Loop and Switch).exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\bin\Debug\Birth Month Exercise (While Loop and Switch).exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\bin\Debug\Birth Month Exercise (While Loop and Switch).pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\obj\Debug\Birth Month Exercise (While Loop and Switch).csprojResolveAssemblyReference.cache
+C:\Users\hlucas\Google Drive\AcademyPGH\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\obj\Debug\Birth Month Exercise (While Loop and Switch).exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\obj\Debug\Birth Month Exercise (While Loop and Switch).pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160920\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\bin\Debug\Birth Month Exercise (While Loop and Switch).exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160920\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\obj\Debug\Birth Month Exercise (While Loop and Switch).exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160920\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\obj\Debug\Birth Month Exercise (While Loop and Switch).pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160919\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\bin\Debug\Birth Month Exercise (While Loop and Switch).exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160919\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\obj\Debug\Birth Month Exercise (While Loop and Switch).exe
+C:\Users\hlucas\Google Drive\AcademyPGH\Week 1\20160919\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\obj\Debug\Birth Month Exercise (While Loop and Switch).pdb
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160920\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\bin\Debug\Birth Month Exercise (While Loop and Switch).exe.config
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160920\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\obj\Debug\Birth Month Exercise (While Loop and Switch).exe
+C:\Users\hlucas\Google Drive\AcademyPGH\week1\20160920\Birth Month Exercise (While Loop and Switch)\Birth Month Exercise (While Loop and Switch)\obj\Debug\Birth Month Exercise (While Loop and Switch).pdb
